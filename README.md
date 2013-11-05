@@ -1,4 +1,4 @@
 highlightjs-codepen-embed
 =========================
 
-codepen.io embed theme for Highlight.js
+[codepen.io](http://codepen.io) embed theme for [Highlight.js](https://github.com/isagalaev/highlight.js/)
